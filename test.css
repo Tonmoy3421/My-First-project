@@ -1,0 +1,43 @@
+h1{
+    color: rgb(98, 41, 97);
+    background-color: rgb(162, 164, 165);
+    align-items: center;
+    height: 25%;
+    width: 25%;
+    font-style: italic;
+}
+p{
+    color: crimson;
+}
+img{
+    height: 50%;
+    width:50%;
+}
+#they{color: brown;
+
+}
+#them{color: blue;
+
+}
+.good{color: blueviolet;
+
+}
+.bad{
+
+    color: rgb(0, 0, 0);
+    background-color: rgba(65, 176, 176, 0.833);
+    height: 25%;
+    width: 25%;
+    }
+
+.h3{
+    color: darkblue;
+    align-items: center;
+}
+    
+.very{
+    color: lightslategray;
+}
+h3{
+    align-items: center;
+}
